@@ -200,5 +200,7 @@ def error3():
     errorLabel['text'] = 'TENÉS QUE DEJAR 2 CAMPOS VACÍOS'
     errorLabel.grid()
 
+# prueba de git
+
 
 raiz.mainloop()
